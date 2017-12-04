@@ -1,2 +1,2 @@
-# advent-of-code-2015
-Code repository for 2015's advent of code challenge
+# advent-of-code
+Code repository for advent of code challenges
